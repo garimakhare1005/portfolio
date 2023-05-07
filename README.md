@@ -415,7 +415,7 @@ Currently, I have already added a separate for each project ( considering there 
           <a
             href="./project-1.html"
             class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
+            target="_blank"rel="noopener noreferrer"
             >Case Study</a
           >
         </div>
@@ -438,7 +438,7 @@ Currently, I have already added a separate for each project ( considering there 
           <a
             href="./project-2.html"
             class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
+            target="_blank"rel="noopener noreferrer"
             >Case Study</a
           >
         </div>
@@ -461,7 +461,7 @@ Currently, I have already added a separate for each project ( considering there 
           <a
             href="./project-3.html"
             class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
+            target="_blank"rel="noopener noreferrer"
             >Case Study</a
           >
         </div>
@@ -711,13 +711,13 @@ Each project will have its own Page. The project page will have important detail
           <a
             href="#"
             class="btn btn--med btn--theme project-details__links-btn"
-            target="_blank"
+            target="_blank"rel="noreferrer"
             >Live Link</a
           >
           <a
             href="#"
             class="btn btn--med btn--theme-inv project-details__links-btn"
-            target="_blank"
+            target="_blank"rel="noreferrer"
             >Code Link</a
           >
         </div>
